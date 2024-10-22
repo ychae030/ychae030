@@ -40,7 +40,5 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ychae030&layout=compact&theme=material-palenight" alt="Top Langs">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ychae030&layout=compact&theme=material-palenight" alt="Top Langs">
 </div>
