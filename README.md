@@ -42,3 +42,13 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ychae030&layout=compact&theme=material-palenight" alt="Top Langs">
 </div>
+
+<div align="center">
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/ychae030?pet-id=643729431992481886"
+    width="600"
+    height="120"
+  />
+</a>
+</div>
